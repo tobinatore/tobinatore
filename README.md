@@ -6,7 +6,7 @@
 <p align="center"><img src="https://badges.pufler.dev/visits/tobinatore/tobinatore?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/years/tobinatore?style=for-the-badge&color=011640"/> <img src="https://badges.pufler.dev/repos/tobinatore?style=for-the-badge&color=011640"/></p>
 
 <p >
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=tobinatore&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinatore&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff&layout=compact"/></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=tobinatore&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinatore&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
 </p>
 <br>
 <hr>
