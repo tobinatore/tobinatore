@@ -13,16 +13,18 @@
 <img align="right" width="200" height="200" src="https://avatars1.githubusercontent.com/u/10181094?s=460&u=bfa02af69c5c24a1a25c84d6f6114489509283c4&v=4"> 
 
 ## About me:
-<ul>
-<li>:man_student: I'm studying Computer Science @ Technical University Dresden</li>
-<li>:man_technologist: Currently focusing on algorithms and data structures</li>
-<li>:sparkles: Favourite activities besides coding: 
-<ul><li>:book: reading</li><li>:musical_keyboard: playing the piano</li> <li>:weight_lifting_man: going to the gym</li><li>:video_game: gaming</li></ul>
-</li>
-<li>:globe_with_meridians: I have a <a href="https://tobinatore.github.io"> website</a>!</li>
-<li>:desktop_computer: Latest project:</li>
+Hi, I'm Tobias! I am in my 5th semester of computer science (B. Sc.) at the Technical University Dresden. I like working with Python, HTML, CSS and Javascript. <br> <br>
+I am currently particularly interested in algorithms and data structures, which is applied in my latest project, an algorithm visualization tool called AlgoVis.
+<br> <br>
+When I'm not coding I enjoy reading, playing piano and going to the gym.
+<hr>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tobinatore&repo=algovis&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338)](https://github.com/tobinatore/algovis)
+## :desktop_computer: Latest projects:
+
+<p align="center">
+<a href="https://github.com/tobinatore/algovis"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobinatore&repo=algovis&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
+<a href="https://github.com/tobinatore/COVID19-Tracker"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tobinatore&repo=COVID19-Tracker&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338"></a>
+<p>
 
 <hr>
 
@@ -39,7 +41,7 @@
 <hr>
 
 ## :speech_balloon: Get in touch:
-<p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a></p>
+<p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a> <a href="https://tobinatore.github.io" rel="nofollow"><img src="https://img.shields.io/badge/My Website %20-%231DA1F2.svg?&style=for-the-badge&color=011640"/></a></p>
 <hr>
 
 ![banner bottom](img/bottom.png)
