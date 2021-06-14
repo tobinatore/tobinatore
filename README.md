@@ -13,7 +13,7 @@
 <img align="right" width="200" height="200" src="https://avatars1.githubusercontent.com/u/10181094?s=460&u=bfa02af69c5c24a1a25c84d6f6114489509283c4&v=4"> 
 
 ## About me:
-Hi, I'm Tobias! I am in my 5th semester of computer science (B. Sc.) at the Technical University Dresden. I like working with Python, HTML, CSS and Javascript. <br> <br>
+Hi, I'm Tobias! I am in my last semester of computer science (B. Sc.) at the Technical University Dresden. I like working with Python, HTML, CSS and Javascript. <br> <br>
 I am currently particularly interested in algorithms and data structures, which is applied in my latest project, an algorithm visualization tool called AlgoVis.
 <br> <br>
 When I'm not coding I enjoy reading, playing piano and going to the gym.
