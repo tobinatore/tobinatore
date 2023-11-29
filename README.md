@@ -13,7 +13,7 @@
 <img align="right" width="200" height="200" src="https://avatars1.githubusercontent.com/u/10181094?s=460&u=bfa02af69c5c24a1a25c84d6f6114489509283c4&v=4"> 
 
 ## About me:
-Hi, I'm Tobias! I am currently a first semester CompSci masters student at Dresden University of Technology. In my job at D3TN GmbH, I mainly work with C, Rust and Python, but I also enjoy doing web dev. <br> <br>
+Hi, I'm Tobias! I am currently a fourth semester CompSci masters student at Dresden University of Technology. In my job at D3TN GmbH, I mainly work with C, Rust and Python, but I also enjoy doing web dev. <br> <br>
 Currently, my main interests are Delay Tolerant Networking as well as Algorithms and Data Structures.
 <br> <br>
 When I'm not coding I enjoy reading, playing piano and going to the gym.
@@ -41,7 +41,7 @@ When I'm not coding I enjoy reading, playing piano and going to the gym.
 <hr>
 
 ## :speech_balloon: Get in touch:
-<p align="center"><a href="https://twitter.com/tobiasnoethlich" rel="nofollow"><img src="https://img.shields.io/badge/@tobiasnoethlich %20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white&color=011640"/></a> <a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/tobias-noethlich/" rel="nofollow"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=011640"/></a> <a href="https://stackoverflow.com/users/5918863/tobias-n%c3%b6thlich?tab=profile" rel="nofollow"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&color=011640"/></a></p>
 <hr>
 
 ![banner bottom](img/bottom.png)
