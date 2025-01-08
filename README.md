@@ -1,5 +1,11 @@
-![Banner](img/banner.jpg)
 
+
+
+## About me:
+Hi, I'm Tobias! I am a Research and Development Engineer working primarily in the domain of Delay- and Disruption-tolerant Networks at D3TN GmbH. I mainly use C, Rust and Python, but I also enjoy doing web dev. <br> <br>
+Currently, my main interests are Delay Tolerant Networking as well as Algorithms and Data Structures.
+<br> <br>
+When I'm not coding I enjoy reading, playing piano and going to the gym.
 <hr/>
 
 ## Key stats
@@ -9,14 +15,6 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=tobinatore&show_icons=true&bg_color=011640&title_color=fff&text_color=fff&icon_color=E83338&count_private=true&include_all_commits=true"/> <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobinatore&exclude_repo=The_Cobalt_Crypt&bg_color=011640&title_color=fff&text_color=fff"/></a>
 </p>
 <br>
-<hr>
-<img align="right" width="200" height="200" src="https://avatars1.githubusercontent.com/u/10181094?s=460&u=bfa02af69c5c24a1a25c84d6f6114489509283c4&v=4"> 
-
-## About me:
-Hi, I'm Tobias! I am currently a fourth semester CompSci masters student at Dresden University of Technology. In my job at D3TN GmbH, I mainly work with C, Rust and Python, but I also enjoy doing web dev. <br> <br>
-Currently, my main interests are Delay Tolerant Networking as well as Algorithms and Data Structures.
-<br> <br>
-When I'm not coding I enjoy reading, playing piano and going to the gym.
 <hr>
 
 ## :desktop_computer: Latest projects:
